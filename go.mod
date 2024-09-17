@@ -12,8 +12,8 @@ require (
 	github.com/cloudfoundry/bosh-utils v0.0.495
 	github.com/cloudfoundry/gosigar v1.3.70
 	github.com/containerd/cgroups v1.1.0
-	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/coreos/go-iptables v0.8.0
+	github.com/coreos/go-systemd/v22 v22.5.0
 	github.com/gofrs/uuid v4.4.0+incompatible
 	github.com/golang/mock v1.6.0
 	github.com/google/nftables v0.2.0
@@ -48,7 +48,6 @@ require (
 	github.com/bodgit/windows v1.0.1 // indirect
 	github.com/cloudfoundry/go-socks5 v0.0.0-20240831012420-2590b55236ee // indirect
 	github.com/cloudfoundry/socks5-proxy v0.2.124 // indirect
-	github.com/coreos/go-systemd/v22 v22.5.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
